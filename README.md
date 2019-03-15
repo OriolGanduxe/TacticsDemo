@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Build v0.1](https://github.com/OriolGanduxe/TacticsDemo/builds/v0.1/index.html)
+[Build v0.1](https://github.com/OriolGanduxe/TacticsDemo/demobuilds/v0.1/index.html)
 
 You can use the [editor on GitHub](https://github.com/OriolGanduxe/TacticsDemo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
