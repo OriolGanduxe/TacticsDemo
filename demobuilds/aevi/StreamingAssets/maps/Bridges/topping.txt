@@ -1,0 +1,17 @@
+.....R1.R.....
+.BBBBRRRRBBBB.
+.B....R.....B.
+.BB...R....BB.
+.B....R.....B.
+.B..FFRRFF..B.
+.B..R.HH.R..B.
+BB..RRRRRR..BB
+.B...=RR=...B.
+.BBBBRRRRBBBB.
+.B.B......B.B.
+.B..........B.
+.B..........B.
+.B..........B.
+F............F
+F2..........3F
+FFF........FFF

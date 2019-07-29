@@ -1,0 +1,11 @@
+[
+    { "name": "2 Teams - S Map",
+        "players": 2,
+        "dirName": "Small" },
+    { "name": "3 Teams - L Map",
+        "players": 3,
+        "dirName": "KingHill" },
+    { "name": "4 Teams - M Map",
+        "players": 4,
+        "dirName": "Pressure" }
+]
