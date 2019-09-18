@@ -1,0 +1,140 @@
+{
+	"turn": 0,
+	"dirName": "KingHill",
+	"neutralBuildings": [{
+		"posX": 5,
+		"posY": 2,
+		"life": 100,
+		"materials": 20,
+		"active": true,
+		"extraMaterialsRegen": true
+	},{
+		"posX": 7,
+		"posY": 2,
+		"life": 100,
+		"materials": 20,
+		"active": true,
+		"extraMaterialsRegen": true
+	},{
+		"posX": 6,
+		"posY": 3,
+		"life": 100,
+		"materials": 20,
+		"active": true,
+		"extraMaterialsRegen": true
+	},{
+		"posX": 0,
+		"posY": 4,
+		"life": 100,
+		"materials": 20,
+		"active": true
+	},{
+		"posX": 12,
+		"posY": 4,
+		"life": 100,
+		"materials": 20
+	},{
+		"posX": 3,
+		"posY": 7,
+		"life": 100,
+		"materials": 20
+	},{
+		"posX": 9,
+		"posY": 7,
+		"life": 100,
+		"materials": 20
+	},{
+		"posX": 4,
+		"posY": 4,
+		"life": 100,
+		"materials": 20,
+		"active": true,
+		"extraDefense": true,
+		"extraRange": true,
+		"extraMaterialsRegen": true,
+		"extraLifeRegen": true
+	}],
+	"players": [{
+		"tacticPoints": 10,
+		"knownUnits": [{
+			"seniority": 1,
+			"primary": 0,
+			"secondaries": []
+		}, {
+			"seniority": 1,
+			"primary": 2,
+			"secondaries": []
+		}, {
+			"seniority": 1,
+			"primary": 1,
+			"secondaries": []
+		}, {
+			"seniority": 1,
+			"primary": 3,
+			"secondaries": []
+		}],
+		"units": [],
+		"buildings": [{
+			"posX": 6,
+			"posY": 0,
+			"life": 100,
+			"materials": 20,
+			"active": true
+		}]
+	}, {
+		"tacticPoints": 10,
+		"knownUnits": [{
+			"seniority": 1,
+			"primary": 0,
+			"secondaries": []
+		}, {
+			"seniority": 1,
+			"primary": 2,
+			"secondaries": []
+		}, {
+			"seniority": 1,
+			"primary": 1,
+			"secondaries": []
+		}, {
+			"seniority": 1,
+			"primary": 3,
+			"secondaries": []
+		}],
+		"units": [],
+		"buildings": [{
+			"posX": 2,
+			"posY": 9,
+			"life": 100,
+			"materials": 20,
+			"active": true
+		}]
+	},
+	{
+		"tacticPoints": 10,
+		"knownUnits": [{
+			"seniority": 1,
+			"primary": 0,
+			"secondaries": []
+		}, {
+			"seniority": 1,
+			"primary": 2,
+			"secondaries": []
+		}, {
+			"seniority": 1,
+			"primary": 1,
+			"secondaries": []
+		}, {
+			"seniority": 1,
+			"primary": 3,
+			"secondaries": []
+		}],
+		"units": [],
+		"buildings": [{
+			"posX": 10,
+			"posY": 9,
+			"life": 100,
+			"materials": 20,
+			"active": true
+		}]
+	}]
+}

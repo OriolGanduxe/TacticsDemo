@@ -9,3 +9,5 @@
 [Tanks test](/networkingtests/tankstest/index.md)
 
 [Special AEVI build](/demobuilds/aevi/index.md)
+
+[Build v0.1.3](/demobuilds/v0.1.3/index.md)

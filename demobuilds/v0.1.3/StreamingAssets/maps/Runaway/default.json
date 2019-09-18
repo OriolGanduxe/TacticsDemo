@@ -1,0 +1,78 @@
+{
+	"turn": 0,
+	"dirName": "Runaway",
+	"neutralBuildings": [{
+		"posX": 1,
+		"posY": 5,
+		"life": 100,
+		"materials": 20,
+		"active": true
+	},{
+		"posX": 13,
+		"posY": 3,
+		"life": 100,
+		"materials": 20,
+		"active": true
+	},{
+		"posX": 13,
+		"posY": 7,
+		"life": 100,
+		"materials": 20,
+		"active": true
+	}],
+	"players": [{
+		"tacticPoints": 10,
+		"knownUnits": [{
+			"seniority": 1,
+			"primary": 0,
+			"secondaries": []
+		}, {
+			"seniority": 1,
+			"primary": 2,
+			"secondaries": []
+		}, {
+			"seniority": 1,
+			"primary": 1,
+			"secondaries": []
+		}, {
+			"seniority": 1,
+			"primary": 3,
+			"secondaries": []
+		}],
+		"units": [],
+		"buildings": [{
+			"posX": 1,
+			"posY": 1,
+			"life": 100,
+			"materials": 20,
+			"active": true
+		}]
+	}, {
+		"tacticPoints": 10,
+		"knownUnits": [{
+			"seniority": 1,
+			"primary": 0,
+			"secondaries": []
+		}, {
+			"seniority": 1,
+			"primary": 2,
+			"secondaries": []
+		}, {
+			"seniority": 1,
+			"primary": 1,
+			"secondaries": []
+		}, {
+			"seniority": 1,
+			"primary": 3,
+			"secondaries": []
+		}],
+		"units": [],
+		"buildings": [{
+			"posX": 7,
+			"posY": 4,
+			"life": 100,
+			"materials": 20,
+			"active": true
+		}]
+	}]
+}
