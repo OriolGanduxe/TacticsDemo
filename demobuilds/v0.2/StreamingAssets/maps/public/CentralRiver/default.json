@@ -1,0 +1,74 @@
+{
+	"dirName": "CentralRiver",
+	"neutralBuildings": [{
+		"posX": 0,
+		"posY": 2,
+		"life": 100,
+		"materials": 20,
+		"active": true
+	},
+	{
+		"posX": 11,
+		"posY": 3,
+		"life": 100,
+		"materials": 20,
+		"active": true,
+		"extraDefense": true,
+		"extraRange": true
+	},{
+		"posX": 2,
+		"posY": 6,
+		"life": 100,
+		"materials": 20,
+		"active": true,
+		"extraDefense": true,
+		"extraRange": true
+	},
+	{
+		"posX": 13,
+		"posY": 7,
+		"life": 100,
+		"materials": 20
+	}],
+	"players": [{
+		"tacticPoints": 10,
+		"units": [],
+		"buildings": [{
+			"posX": 10,
+			"posY": 9,
+			"life": 100,
+			"materials": 20,
+			"active": true
+		}]
+	}, {
+		"tacticPoints": 10,
+		"units": [],
+		"buildings": [{
+			"posX": 3,
+			"posY": 0,
+			"life": 100,
+			"materials": 20,
+            "active": true
+		}]
+	}, {
+		"tacticPoints": 10,
+		"units": [],
+		"buildings": [{
+			"posX": 3,
+			"posY": 9,
+			"life": 100,
+			"materials": 20,
+            "active": true
+		}]
+	}, {
+		"tacticPoints": 10,
+		"units": [],
+		"buildings": [{
+			"posX": 10,
+			"posY": 0,
+			"life": 100,
+			"materials": 20,
+            "active": true
+		}]
+	}]
+}

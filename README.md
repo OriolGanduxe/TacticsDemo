@@ -11,3 +11,5 @@
 [Special AEVI build](/demobuilds/aevi/index.md)
 
 [Build v0.1.3](/demobuilds/v0.1.3/index.md)
+
+[Build v0.2](/demobuilds/v0.2/index.md)
