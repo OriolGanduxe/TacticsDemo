@@ -22,17 +22,6 @@
 			},
 			"active": true,
 			"lookingRight": false
-		},{
-			"posX": 7,
-			"posY": 7,
-			"life": 100,
-			"type": {
-				"seniority": 1,
-				"primary": 3,
-				"secondaries": [2]
-			},
-			"active": true,
-			"lookingRight": true
 		}],
 		"buildings": [{
 			"posX": 6,
