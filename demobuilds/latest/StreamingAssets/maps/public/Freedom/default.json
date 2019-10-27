@@ -1,0 +1,64 @@
+{
+	"dirName": "Freedom",
+	"neutralBuildings": [{
+		"posX": 7,
+		"posY": 2,
+		"life": 100,
+		"materials": 20,
+		"active": true,
+		"extraLifeRegen": true,
+		"extraMaterialsRegen": true
+	}],
+	"players": [{
+		"units": [{
+			"posX": 5,
+			"posY": 7,
+			"life": 100,
+			"type": {
+				"seniority": 1,
+				"primary": 0,
+				"secondaries": [1]
+			},
+			"active": true,
+			"lookingRight": false
+		}],
+		"buildings": [{
+			"posX": 6,
+			"posY": 7,
+			"life": 100,
+			"materials": 20,
+			"active": true,
+			"extraRange": true,
+			"extraDefense": true,
+			"extraLifeRegen": true,
+			"extraMaterialsRegen": true
+		}]
+	}, {
+		"units": [],
+		"buildings": [{
+			"posX": 14,
+			"posY": 10,
+			"life": 100,
+			"materials": 20,
+            "active": true
+		}]
+	}, {
+		"units": [],
+		"buildings": [{
+			"posX": 9,
+			"posY": 12,
+			"life": 100,
+			"materials": 20,
+            "active": true
+		}]
+	}, {
+		"units": [],
+		"buildings": [{
+			"posX": 2,
+			"posY": 12,
+			"life": 100,
+			"materials": 20,
+            "active": true
+		}]
+	}]
+}
