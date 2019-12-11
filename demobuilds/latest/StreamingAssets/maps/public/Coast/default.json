@@ -34,17 +34,6 @@
 		}]
 	}, {
 		"units": [{
-			"posX": 6,
-			"posY": 9,
-			"life": 100,
-			"type": {
-				"seniority": 0,
-				"primary": 0,
-				"secondaries": []
-			},
-			"active": true,
-			"lookingRight": false
-		},{
 			"posX": 8,
 			"posY": 9,
 			"life": 100,

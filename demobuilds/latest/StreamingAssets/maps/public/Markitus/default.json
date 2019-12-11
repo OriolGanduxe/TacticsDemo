@@ -1,0 +1,58 @@
+{
+	"dirName": "Markitus",
+	"neutralBuildings": [{
+            "posX": 2,
+            "posY": 1,
+            "life": 100,
+            "materials": 20,
+            "active": true
+        },{
+            "posX": 7,
+            "posY": 0,
+            "life": 100,
+            "materials": 20,
+            "active": true
+        },{
+            "posX": 5,
+            "posY": 7,
+            "life": 100,
+            "materials": 20,
+            "active": true
+        },{
+            "posX": 10,
+            "posY": 8,
+            "life": 100,
+            "materials": 20,
+            "active": true
+        },{
+            "posX": 6,
+            "posY": 4,
+            "life": 100,
+            "extraDefense": true,
+            "extraRange": true,
+            "extraLifeRegen": true,
+            "extraMaterialsRegen": true,
+            "materials": 20,
+            "active": true
+        }],
+	"players": [{
+        "units": [],
+		"buildings": [{
+			"posX": 0,
+			"posY": 4,
+			"life": 100,
+			"materials": 20,
+			"active": true
+		}]
+	}, {
+		"units": [],
+        "buildings": [
+            {
+                "posX": 12,
+                "posY": 4,
+                "life": 100,
+                "materials": 20,
+                "active": true
+            }]
+	}]
+}

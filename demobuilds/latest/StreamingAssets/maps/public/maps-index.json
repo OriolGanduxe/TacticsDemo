@@ -1,44 +1,82 @@
 [
-    { "name": "Chess NEW",
+    {
+        "name": "Surrounded NEW",
         "players": 2,
-        "dirName": "Chess" },
-    { "name": "So near so far NEW",
+        "dirName": "Surrounded"
+    },
+    {
+        "name": "Markitus NEW",
         "players": 2,
-        "dirName": "SoNearSoFar" },
-    { "name": "Summoners Rift NEW",
+        "dirName": "Markitus"
+    },
+    {
+        "name": "Chess",
         "players": 2,
-        "dirName": "SummonersRift" },
-    { "name": "Forest",
+        "dirName": "Chess"
+    },
+    {
+        "name": "So near so far",
         "players": 2,
-        "dirName": "Forest" },
-    { "name": "Runaway",
+        "dirName": "SoNearSoFar"
+    },
+    {
+        "name": "Summoners Rift",
         "players": 2,
-        "dirName": "Runaway" },
-    { "name": "Small",
+        "dirName": "SummonersRift"
+    },
+    {
+        "name": "Forest",
         "players": 2,
-        "dirName": "Small" },
-    { "name": "Coast",
+        "dirName": "Forest"
+    },
+    {
+        "name": "Runaway",
         "players": 2,
-        "dirName": "Coast" },
-    { "name": "Dead Row",
+        "dirName": "Runaway"
+    },
+    {
+        "name": "Small",
         "players": 2,
-        "dirName": "DeadRow" },
-    { "name": "Rivers! (3)",
+        "dirName": "Small"
+    },
+    {
+        "name": "Coast",
+        "players": 2,
+        "dirName": "Coast"
+    },
+    {
+        "name": "Dead Row",
+        "players": 2,
+        "dirName": "DeadRow"
+    },
+    {
+        "name": "Rivers! (3)",
         "players": 3,
-        "dirName": "Rivers" },
-    { "name": "Bridges! (3)",
+        "dirName": "Rivers"
+    },
+    {
+        "name": "Bridges! (3)",
         "players": 3,
-        "dirName": "Bridges" },
-    { "name": "King of the hill (3)",
+        "dirName": "Bridges"
+    },
+    {
+        "name": "King of the hill (3)",
         "players": 3,
-        "dirName": "KingHill" },
-    { "name": "Pressure(4)",
+        "dirName": "KingHill"
+    },
+    {
+        "name": "Pressure(4)",
         "players": 4,
-        "dirName": "Pressure" },
-    { "name": "Central River(4)",
+        "dirName": "Pressure"
+    },
+    {
+        "name": "Central River(4)",
         "players": 4,
-        "dirName": "CentralRiver" },
-    { "name": "Untitled map(4)",
+        "dirName": "CentralRiver"
+    },
+    {
+        "name": "Untitled map(4)",
         "players": 4,
-        "dirName": "Freedom" }
+        "dirName": "Freedom"
+    }
 ]
