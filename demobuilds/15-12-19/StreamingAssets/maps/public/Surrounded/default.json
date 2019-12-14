@@ -1,0 +1,94 @@
+{
+	"dirName": "Surrounded",
+	"neutralBuildings": [],
+	"players": [{
+        "units": [
+            {
+                "posX": 9,
+                "posY": 6,
+                "life": 100,
+                "type": {
+                    "seniority": 1,
+                    "primary": 0,
+                    "secondaries": []
+                },
+                "active": true,
+                "lookingRight": true
+            },
+            {
+                "posX": 5,
+                "posY": 6,
+                "life": 100,
+                "type": {
+                    "seniority": 0,
+                    "primary": 1,
+                    "secondaries": [0]
+                },
+                "active": true,
+                "lookingRight": false
+            },
+            {
+                "posX": 7,
+                "posY": 7,
+                "life": 100,
+                "type": {
+                    "seniority": 0,
+                    "primary": 2,
+                    "secondaries": [2]
+                },
+                "active": true,
+                "lookingRight": true
+            },
+            {
+                "posX": 7,
+                "posY": 5,
+                "life": 100,
+                "type": {
+                    "seniority": 0,
+                    "primary": 3,
+                    "secondaries": [1]
+                },
+                "active": true,
+                "lookingRight": false
+            }
+        ],
+		"buildings": [{
+			"posX": 7,
+			"posY": 6,
+			"life": 100,
+			"materials": 20,
+			"active": true
+		}]
+	}, {
+		"units": [],
+        "buildings": [
+            {
+                "posX": 1,
+                "posY": 1,
+                "life": 100,
+                "materials": 20,
+                "active": true
+            },
+            {
+                "posX": 13,
+                "posY": 1,
+                "life": 100,
+                "materials": 20,
+                "active": true
+            },
+            {
+                "posX": 1,
+                "posY": 11,
+                "life": 100,
+                "materials": 20,
+                "active": true
+            },
+            {
+                "posX": 13,
+                "posY": 11,
+                "life": 100,
+                "materials": 20,
+                "active": true
+            }]
+	}]
+}

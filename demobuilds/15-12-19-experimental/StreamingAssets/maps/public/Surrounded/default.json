@@ -10,7 +10,7 @@
                 "type": {
                     "seniority": 1,
                     "primary": 0,
-                    "secondaries": [1]
+                    "secondaries": []
                 },
                 "active": true,
                 "lookingRight": true
