@@ -55,8 +55,8 @@
 		"buildings": [{
 			"posX": 7,
 			"posY": 6,
-			"life": 50,
-			"materials": 0,
+			"life": 40,
+			"materials": 10,
 			"active": true
 		}]
 	}, {
