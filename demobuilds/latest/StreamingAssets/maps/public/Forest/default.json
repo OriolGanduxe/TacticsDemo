@@ -1,5 +1,6 @@
 {
-	"dirName": "Forest",
+	"mapPath": "public/Forest",
+	"mapName": "Forest",
 	"neutralBuildings": [{
 		"posX": 0,
 		"posY": 0,

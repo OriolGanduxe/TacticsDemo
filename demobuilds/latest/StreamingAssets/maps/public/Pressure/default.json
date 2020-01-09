@@ -1,5 +1,6 @@
 {
-	"dirName": "Pressure",
+	"mapPath": "public/Pressure",
+	"mapName": "Pressure",
 	"neutralBuildings": [{
 		"posX": 4,
 		"posY": 4,

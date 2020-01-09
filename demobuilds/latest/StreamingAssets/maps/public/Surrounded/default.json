@@ -1,5 +1,6 @@
 {
-	"dirName": "Surrounded",
+	"mapPath": "public/Surrounded",
+	"mapName": "Surrounded",
 	"neutralBuildings": [],
 	"players": [{
         "units": [

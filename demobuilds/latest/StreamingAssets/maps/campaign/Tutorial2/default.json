@@ -1,0 +1,25 @@
+{
+	"mapPath": "campaign/Tutorial2",
+	"mapName": "Tutorial2",
+	"neutralBuildings": [],
+	"players": [{
+		"units": [{
+			"posX": 2,
+			"posY": 11,
+			"life": 100,
+			"tag": "ourUnitTag",
+			"type": {
+				"seniority": 0,
+				"primary": 3,
+				"secondaries": []
+			},
+			"active": true,
+			"passive": true,
+			"lookingRight": true
+		}],
+		"buildings": []
+	}, {
+		"units": [],
+		"buildings": []
+	}]
+}

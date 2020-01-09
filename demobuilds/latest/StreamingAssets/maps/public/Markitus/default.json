@@ -1,5 +1,6 @@
 {
-	"dirName": "Markitus",
+	"mapPath": "public/Markitus",
+	"mapName": "Markitus",
 	"neutralBuildings": [{
             "posX": 2,
             "posY": 1,

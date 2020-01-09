@@ -1,5 +1,6 @@
 {
-	"dirName": "DeadRow",
+	"mapPath": "public/DeadRow",
+	"mapName": "Dead row",
 	"neutralBuildings": [{
 		"posX": 6,
 		"posY": 1,

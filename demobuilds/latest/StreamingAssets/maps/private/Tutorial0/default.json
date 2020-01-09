@@ -1,5 +1,6 @@
 {
-	"dirName": "Tutorial0",
+	"mapPath": "private/Tutorial0",
+	"mapName": "Tutorial0",
 	"neutralBuildings": [{
 		"posX": 4,
 		"posY": 2,

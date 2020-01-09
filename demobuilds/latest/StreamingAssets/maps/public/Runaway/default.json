@@ -1,5 +1,6 @@
 {
-	"dirName": "Runaway",
+	"mapPath": "public/Runaway",
+	"mapName": "Runaway",
 	"neutralBuildings": [{
 		"posX": 1,
 		"posY": 5,

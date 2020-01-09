@@ -1,5 +1,6 @@
 {
-	"dirName": "SummonersRift",
+	"mapPath": "public/SummonersRift",
+	"mapName": "Summoners rift",
 	"neutralBuildings": [{
 		"posX": 8,
 		"posY": 4,

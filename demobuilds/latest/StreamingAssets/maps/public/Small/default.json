@@ -1,5 +1,6 @@
 {
-	"dirName": "Small",
+	"mapPath": "public/Small",
+	"mapName": "Small",
 	"neutralBuildings": [{
 		"posX": 4,
 		"posY": 2,

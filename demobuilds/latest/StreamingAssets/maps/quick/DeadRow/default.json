@@ -1,0 +1,54 @@
+{
+	"mapPath": "quick/DeadRow",
+	"mapName": "Dead row",
+	"neutralBuildings": [{
+		"posX": 6,
+		"posY": 1,
+		"life": 100,
+		"materials": 20,
+		"active": true
+	},{
+		"posX": 10,
+		"posY": 1,
+		"life": 100,
+		"materials": 20,
+		"active": true
+	},{
+		"posX": 8,
+		"posY": 5,
+		"life": 100,
+		"materials": 20,
+		"active": true
+	},{
+		"posX": 10,
+		"posY": 9,
+		"life": 100,
+		"materials": 20,
+		"active": true
+	},{
+		"posX": 6,
+		"posY": 9,
+		"life": 100,
+		"materials": 20,
+		"active": true
+	}],
+	"players": [{
+		"units": [],
+		"buildings": [{
+			"posX": 1,
+			"posY": 5,
+			"life": 100,
+			"materials": 20,
+			"active": true
+		}]
+	}, {
+		"units": [],
+		"buildings": [{
+			"posX": 15,
+			"posY": 5,
+			"life": 100,
+			"materials": 20,
+			"active": true
+		}]
+	}]
+}

@@ -1,5 +1,6 @@
 {
-	"dirName": "Chess",
+	"mapPath": "public/Chess",
+	"mapName": "Chess",
 	"neutralBuildings": [],
 	"players": [{
 		"units": [{

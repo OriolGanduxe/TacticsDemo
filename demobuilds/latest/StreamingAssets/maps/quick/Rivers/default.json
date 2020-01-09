@@ -1,0 +1,57 @@
+{
+	"mapPath": "quick/Rivers",
+	"mapName": "Rivers",
+	"neutralBuildings": [{
+		"posX": 2,
+		"posY": 4,
+		"life": 100,
+		"materials": 20,
+		"active": true
+	},{
+		"posX": 7,
+		"posY": 4,
+		"life": 100,
+		"materials": 20,
+		"active": true
+	},{
+		"posX": 5,
+		"posY": 3,
+		"life": 100,
+		"materials": 20,
+		"active": true
+	},{
+		"posX": 4,
+		"posY": 1,
+		"life": 100,
+		"materials": 20,
+		"active": true
+	}],
+	"players": [{
+		"units": [],
+		"buildings": [{
+			"posX": 1,
+			"posY": 5,
+			"life": 100,
+			"materials": 20,
+			"active": true
+		}]
+	}, {
+		"units": [],
+		"buildings": [{
+			"posX": 6,
+			"posY": 5,
+			"life": 100,
+			"materials": 20,
+			"active": true
+		}]
+	}, {
+		"units": [],
+		"buildings": [{
+			"posX": 2,
+			"posY": 0,
+			"life": 100,
+			"materials": 20,
+			"active": true
+		}]
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	"mapPath": "quick/SummonersRift",
+	"mapName": "Summoners rift",
+	"neutralBuildings": [{
+		"posX": 8,
+		"posY": 4,
+		"life": 100,
+		"materials": 20,
+		"active": true
+	},{
+		"posX": 7,
+		"posY": 10,
+		"life": 100,
+		"materials": 20,
+		"active": true,
+		"lookingRight": false
+	}],
+	"players": [{
+		"units": [],
+		"buildings": [{
+			"posX": 3,
+			"posY": 3,
+			"life": 100,
+			"materials": 20,
+			"active": true
+		}]
+	}, {
+		"units": [],
+		"buildings": [{
+			"posX": 12,
+			"posY": 11,
+			"life": 100,
+			"materials": 20,
+            "active": true,
+			"lookingRight": false
+		}]
+	}]
+}

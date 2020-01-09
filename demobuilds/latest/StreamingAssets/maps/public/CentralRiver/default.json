@@ -1,5 +1,6 @@
 {
-	"dirName": "CentralRiver",
+	"mapPath": "public/CentralRiver",
+	"mapName": "Central river",
 	"neutralBuildings": [{
 		"posX": 0,
 		"posY": 2,

@@ -1,5 +1,6 @@
 {
-	"dirName": "Freedom",
+	"mapPath": "public/Freedom",
+	"mapName": "Untitled map",
 	"neutralBuildings": [{
 		"posX": 7,
 		"posY": 2,

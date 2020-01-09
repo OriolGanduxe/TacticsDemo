@@ -1,5 +1,6 @@
 {
-	"dirName": "Bridges",
+	"mapPath": "public/Bridges",
+	"mapName": "Bridges",
 	"neutralBuildings": [{
 		"posX": 4,
 		"posY": 8,

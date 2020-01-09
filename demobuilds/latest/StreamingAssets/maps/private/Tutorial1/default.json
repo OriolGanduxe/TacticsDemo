@@ -1,5 +1,6 @@
 {
-	"dirName": "Tutorial1",
+	"mapPath": "private/Tutorial1",
+	"mapName": "Tutorial1",
 	"neutralBuildings": [],
 	"players": [{
 		"units": [{

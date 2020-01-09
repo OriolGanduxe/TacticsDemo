@@ -1,5 +1,6 @@
 {
-	"dirName": "SoNearSoFar",
+	"mapPath": "public/SoNearSoFar",
+	"mapName": "So near so far",
 	"neutralBuildings": [],
 	"players": [{
 			"units": [],
