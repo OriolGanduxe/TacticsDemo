@@ -4,22 +4,54 @@
 	"neutralBuildings": [],
 	"players": [{
 		"units": [{
-			"posX": 2,
-			"posY": 11,
+			"posX": 1,
+			"posY": 5,
 			"life": 100,
-			"tag": "ourUnitTag",
+			"tag": "archer1",
 			"type": {
 				"seniority": 0,
-				"primary": 3,
+				"primary": 2,
 				"secondaries": []
 			},
 			"active": true,
-			"passive": true,
+			"lookingRight": true
+		},
+		{
+			"posX": 1,
+			"posY": 4,
+			"life": 100,
+			"tag": "archer2",
+			"type": {
+				"seniority": 0,
+				"primary": 2,
+				"secondaries": []
+			},
+			"active": true,
 			"lookingRight": true
 		}],
-		"buildings": []
+		"buildings": [{
+			"tag": "daBuilding",
+			"posX": 1,
+			"posY": 1,
+			"life": 100,
+			"materials": 20,
+			"active": false,
+			"passive": true
+		}]
 	}, {
-		"units": [],
+		"units": [{
+			"posX": 3,
+			"posY": 5,
+			"life": 80,
+			"tag": "enemy1",
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": true
+		}],
 		"buildings": []
 	}]
 }
