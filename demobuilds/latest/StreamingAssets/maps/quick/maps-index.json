@@ -55,6 +55,11 @@
         "dirName": "DeadRow"
     },
     {
+        "name": "Quiet Lagoon (3)",
+        "players": 3,
+        "dirName": "QuietLagoon"
+    },
+    {
         "name": "Rivers! (3)",
         "players": 3,
         "dirName": "Rivers"
