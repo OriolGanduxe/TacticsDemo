@@ -47,7 +47,7 @@
 	}, {
 		"units": [],
 		"buildings": [{
-			"posX": 2,
+			"posX": 5,
 			"posY": 0,
 			"life": 100,
 			"materials": 20,

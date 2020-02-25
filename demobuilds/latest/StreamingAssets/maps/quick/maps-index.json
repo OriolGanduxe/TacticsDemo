@@ -1,43 +1,8 @@
 [
     {
-        "name": "Demoland NEW",
-        "players": 2,
-        "dirName": "Demoland"
-    },
-    {
-        "name": "Surrounded NEW",
-        "players": 2,
-        "dirName": "Surrounded"
-    },
-    {
-        "name": "Markitus NEW",
+        "name": "Markitus",
         "players": 2,
         "dirName": "Markitus"
-    },
-    {
-        "name": "Chess",
-        "players": 2,
-        "dirName": "Chess"
-    },
-    {
-        "name": "So near so far",
-        "players": 2,
-        "dirName": "SoNearSoFar"
-    },
-    {
-        "name": "Summoners Rift",
-        "players": 2,
-        "dirName": "SummonersRift"
-    },
-    {
-        "name": "Forest",
-        "players": 2,
-        "dirName": "Forest"
-    },
-    {
-        "name": "Runaway",
-        "players": 2,
-        "dirName": "Runaway"
     },
     {
         "name": "Small",
@@ -50,43 +15,13 @@
         "dirName": "Coast"
     },
     {
-        "name": "Dead Row",
-        "players": 2,
-        "dirName": "DeadRow"
-    },
-    {
-        "name": "Quiet Lagoon (3)",
-        "players": 3,
-        "dirName": "QuietLagoon"
-    },
-    {
         "name": "Rivers! (3)",
         "players": 3,
         "dirName": "Rivers"
     },
     {
-        "name": "Bridges! (3)",
-        "players": 3,
-        "dirName": "Bridges"
-    },
-    {
-        "name": "King of the hill (3)",
-        "players": 3,
-        "dirName": "KingHill"
-    },
-    {
-        "name": "Pressure(4)",
-        "players": 4,
-        "dirName": "Pressure"
-    },
-    {
         "name": "Central River(4)",
         "players": 4,
         "dirName": "CentralRiver"
-    },
-    {
-        "name": "Untitled map(4)",
-        "players": 4,
-        "dirName": "Freedom"
     }
 ]

@@ -53,5 +53,5 @@
 			"lookingRight": true
 		}],
 		"buildings": []
-	}]
+	}],"featureFlags":{"experience":false,"tacticPoints":false,"battlePoints":false,"randomness":false}
 }
