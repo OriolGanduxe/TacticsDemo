@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "Tactics",
+"companyName": "AutohitGames",
+"productName": "RoD",
 "dataUrl": "TacticsWeb.data.unityweb",
 "wasmCodeUrl": "TacticsWeb.wasm.code.unityweb",
 "wasmFrameworkUrl": "TacticsWeb.wasm.framework.unityweb",

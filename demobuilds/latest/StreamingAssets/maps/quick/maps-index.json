@@ -1,10 +1,5 @@
 [
     {
-        "name": "Markitus",
-        "players": 2,
-        "dirName": "Markitus"
-    },
-    {
         "name": "Small",
         "players": 2,
         "dirName": "Small"
@@ -15,12 +10,17 @@
         "dirName": "Coast"
     },
     {
-        "name": "Rivers! (3)",
+        "name": "Marquitus",
+        "players": 2,
+        "dirName": "Markitus"
+    },
+    {
+        "name": "Rivers! (3 players)",
         "players": 3,
         "dirName": "Rivers"
     },
     {
-        "name": "Central River(4)",
+        "name": "Central River (4 players)",
         "players": 4,
         "dirName": "CentralRiver"
     }
