@@ -5,14 +5,14 @@
 		"posX": 0,
 		"posY": 2,
 		"life": 100,
-		"materials": 20,
+		"materials": 35,
 		"active": true
 	},
 	{
 		"posX": 11,
 		"posY": 3,
 		"life": 100,
-		"materials": 20,
+		"materials": 35,
 		"active": true,
 		"extraDefense": true,
 		"extraRange": true
@@ -20,7 +20,7 @@
 		"posX": 2,
 		"posY": 6,
 		"life": 100,
-		"materials": 20,
+		"materials": 35,
 		"active": true,
 		"extraDefense": true,
 		"extraRange": true
@@ -29,7 +29,7 @@
 		"posX": 13,
 		"posY": 7,
 		"life": 100,
-		"materials": 20
+		"materials": 35
 	}],
 	"players": [{
 		"units": [],
@@ -37,7 +37,7 @@
 			"posX": 10,
 			"posY": 9,
 			"life": 100,
-			"materials": 20,
+			"materials": 35,
 			"active": true
 		}]
 	}, {
@@ -46,7 +46,7 @@
 			"posX": 3,
 			"posY": 0,
 			"life": 100,
-			"materials": 20,
+			"materials": 35,
             "active": true
 		}]
 	}, {
@@ -55,7 +55,7 @@
 			"posX": 3,
 			"posY": 9,
 			"life": 100,
-			"materials": 20,
+			"materials": 35,
             "active": true
 		}]
 	}, {
@@ -64,7 +64,7 @@
 			"posX": 10,
 			"posY": 0,
 			"life": 100,
-			"materials": 20,
+			"materials": 35,
             "active": true
 		}]
 	}]

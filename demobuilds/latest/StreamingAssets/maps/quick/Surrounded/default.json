@@ -57,7 +57,7 @@
 			"posX": 7,
 			"posY": 6,
 			"life": 40,
-			"materials": 10,
+			"materials": 25,
 			"active": true
 		}]
 	}, {
@@ -67,28 +67,28 @@
                 "posX": 1,
                 "posY": 1,
                 "life": 100,
-                "materials": 20,
+                "materials": 35,
                 "active": true
             },
             {
                 "posX": 13,
                 "posY": 1,
                 "life": 100,
-                "materials": 20,
+                "materials": 35,
                 "active": true
             },
             {
                 "posX": 1,
                 "posY": 11,
                 "life": 100,
-                "materials": 20,
+                "materials": 35,
                 "active": true
             },
             {
                 "posX": 13,
                 "posY": 11,
                 "life": 100,
-                "materials": 20,
+                "materials": 35,
                 "active": true
             }]
 	}]

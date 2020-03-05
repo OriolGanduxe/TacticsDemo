@@ -5,13 +5,13 @@
 		"posX": 8,
 		"posY": 4,
 		"life": 100,
-		"materials": 20,
+		"materials": 35,
 		"active": true
 	},{
 		"posX": 7,
 		"posY": 10,
 		"life": 100,
-		"materials": 20,
+		"materials": 35,
 		"active": true,
 		"lookingRight": false
 	}],
@@ -21,7 +21,7 @@
 			"posX": 3,
 			"posY": 3,
 			"life": 100,
-			"materials": 20,
+			"materials": 35,
 			"active": true
 		}]
 	}, {
@@ -30,7 +30,7 @@
 			"posX": 12,
 			"posY": 11,
 			"life": 100,
-			"materials": 20,
+			"materials": 35,
             "active": true,
 			"lookingRight": false
 		}]

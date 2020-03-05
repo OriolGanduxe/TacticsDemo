@@ -34,7 +34,7 @@
 			"posX": 1,
 			"posY": 1,
 			"life": 100,
-			"materials": 20,
+			"materials": 35,
 			"active": false,
 			"passive": true
 		}]
