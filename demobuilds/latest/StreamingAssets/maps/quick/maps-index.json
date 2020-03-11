@@ -1,21 +1,21 @@
 [
     {
-        "name": "Gold Fever",
+        "name": "Gold Fever NEW",
         "players": 2,
         "dirName": "GoldFever"
     },
     {
-        "name": "Demoland NEW",
+        "name": "Demoland",
         "players": 2,
         "dirName": "Demoland"
     },
     {
-        "name": "Surrounded NEW",
+        "name": "Surrounded",
         "players": 2,
         "dirName": "Surrounded"
     },
     {
-        "name": "Markitus NEW",
+        "name": "Markitus",
         "players": 2,
         "dirName": "Markitus"
     },
@@ -55,9 +55,14 @@
         "dirName": "Coast"
     },
     {
-        "name": "Dead Row",
+        "name": "Dead Row NEW",
         "players": 2,
         "dirName": "DeadRow"
+    },
+    {
+        "name": "Enigma NEW",
+        "players": 3,
+        "dirName": "Enigma"
     },
     {
         "name": "Quiet Lagoon (3)",

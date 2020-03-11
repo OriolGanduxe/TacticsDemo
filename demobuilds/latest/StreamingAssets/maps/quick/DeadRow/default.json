@@ -2,40 +2,30 @@
 	"mapPath": "quick/DeadRow",
 	"mapName": "Dead row",
 	"neutralBuildings": [{
-		"posX": 6,
-		"posY": 1,
-		"life": 100,
-		"materials": 35,
-		"active": true
-	},{
-		"posX": 10,
-		"posY": 1,
-		"life": 100,
-		"materials": 35,
-		"active": true
-	},{
-		"posX": 8,
-		"posY": 5,
-		"life": 100,
-		"materials": 35,
-		"active": true
-	},{
-		"posX": 10,
-		"posY": 9,
-		"life": 100,
-		"materials": 35,
-		"active": true
-	},{
-		"posX": 6,
-		"posY": 9,
+		"posX": 7,
+		"posY": 4,
 		"life": 100,
 		"materials": 35,
 		"active": true
 	}],
+	"neutralMines": [{
+			"posX": 4,
+			"posY": 1
+		},{
+			"posX": 10,
+			"posY": 1
+		},{
+			"posX": 4,
+			"posY": 9
+		},{
+			"posX": 10,
+			"posY": 9
+		}
+	],
 	"players": [{
 		"units": [],
 		"buildings": [{
-			"posX": 1,
+			"posX": 2,
 			"posY": 5,
 			"life": 100,
 			"materials": 35,
@@ -44,7 +34,7 @@
 	}, {
 		"units": [],
 		"buildings": [{
-			"posX": 15,
+			"posX": 12,
 			"posY": 5,
 			"life": 100,
 			"materials": 35,
