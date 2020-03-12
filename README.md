@@ -18,4 +18,6 @@
 
 [Special Test 15-12-19 Experimental](/demobuilds/15-12-19-experimental/index.md)
 
+[Build v0.3](/demobuilds/v0.3/index.md)
+
 [Latest Build UNSTABLE](/demobuilds/latest/index.md)

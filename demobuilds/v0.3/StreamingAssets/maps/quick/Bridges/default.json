@@ -1,0 +1,45 @@
+{
+	"mapPath": "quick/Bridges",
+	"mapName": "Bridges",
+	"neutralBuildings": [{
+		"posX": 4,
+		"posY": 8,
+		"life": 100,
+		"materials": 35,
+		"active": true
+	},{
+		"posX": 9,
+		"posY": 8,
+		"life": 100,
+		"materials": 35,
+		"active": true
+	}],
+	"players": [{
+		"units": [],
+		"buildings": [{
+			"posX": 6,
+			"posY": 16,
+			"life": 100,
+			"materials": 35,
+			"active": true
+		}]
+	}, {
+		"units": [],
+		"buildings": [{
+			"posX": 1,
+			"posY": 1,
+			"life": 100,
+			"materials": 35,
+			"active": true
+		}]
+	}, {
+		"units": [],
+		"buildings": [{
+			"posX": 12,
+			"posY": 1,
+			"life": 100,
+			"materials": 35,
+			"active": true
+		}]
+	}]
+}
