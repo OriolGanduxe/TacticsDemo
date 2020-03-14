@@ -1,0 +1,121 @@
+{
+	"mapPath": "campaign/Tutorial3",
+	"mapName": "Tutorial3",
+	"neutralBuildings": [],
+	"players": [{
+		"units": [{
+			"posX": 6,
+			"posY": 5,
+			"life": 100,
+			"tag": "archer1",
+			"type": {
+				"seniority": 0,
+				"primary": 2,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},
+		{
+			"posX": 8,
+			"posY": 4,
+			"life": 100,
+			"tag": "archer2",
+			"type": {
+				"seniority": 0,
+				"primary": 2,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": true
+		},
+		{
+			"posX": 6,
+			"posY": 2,
+			"life": 100,
+			"tag": "warrior1",
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},
+		{
+			"posX": 7,
+			"posY": 3,
+			"life": 100,
+			"tag": "warrior2",
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": true
+		},
+		{
+			"posX": 2,
+			"posY": 5,
+			"life": 100,
+			"tag": "warrior3",
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},
+		{
+			"posX": 10,
+			"posY": 6,
+			"life": 100,
+			"tag": "warrior4",
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": true
+		}],
+		"buildings": [{
+			"tag": "daBuilding",
+			"posX": 6,
+			"posY": 6,
+			"life": 100,
+			"materials": 35,
+			"active": true
+		}]
+	}, {
+		"units": [{
+			"posX": 6,
+			"posY": 1,
+			"life": 40,
+			"tag": "enemy1",
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": true
+		},
+		{
+			"posX": 7,
+			"posY": 1,
+			"life": 100,
+			"tag": "enemy2",
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": true
+		}],
+		"buildings": []
+	}],"featureFlags":{"experience":false,"tacticPoints":false,"battlePoints":false,"randomness":false}
+}
