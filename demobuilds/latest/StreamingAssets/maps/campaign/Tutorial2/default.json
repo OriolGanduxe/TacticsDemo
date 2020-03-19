@@ -37,6 +37,27 @@
 			"materials": 35,
 			"active": false,
 			"passive": true
+		}],
+		"knownUnits": [{
+			"seniority": 0,
+			"primary": 0,
+			"secondaries": [],
+			"disabled": false
+		}, {
+			"seniority": 0,
+			"primary": 1,
+			"secondaries": [],
+			"disabled": true
+		}, {
+			"seniority": 0,
+			"primary": 2,
+			"secondaries": [],
+			"disabled": true
+		}, {
+			"seniority": 0,
+			"primary": 3,
+			"secondaries": [],
+			"disabled": true
 		}]
 	}, {
 		"units": [{
@@ -53,5 +74,5 @@
 			"lookingRight": true
 		}],
 		"buildings": []
-	}],"featureFlags":{"experience":false,"tacticPoints":false,"battlePoints":false,"randomness":false}
+	}],"featureFlags":{"experience":false,"tacticPoints":false,"battlePoints":false,"randomness":false, "buildingUpgrades": false}
 }
