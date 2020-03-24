@@ -5,6 +5,11 @@
         "dirName": "GoldFever"
     },
     {
+        "name": "Shooting Range NEW",
+        "players": 2,
+        "dirName": "ShootingRange"
+    },
+    {
         "name": "Demoland",
         "players": 2,
         "dirName": "Demoland"
@@ -20,24 +25,9 @@
         "dirName": "Markitus"
     },
     {
-        "name": "Chess",
-        "players": 2,
-        "dirName": "Chess"
-    },
-    {
         "name": "So near so far",
         "players": 2,
         "dirName": "SoNearSoFar"
-    },
-    {
-        "name": "Summoners Rift",
-        "players": 2,
-        "dirName": "SummonersRift"
-    },
-    {
-        "name": "Forest",
-        "players": 2,
-        "dirName": "Forest"
     },
     {
         "name": "Runaway",
@@ -60,7 +50,7 @@
         "dirName": "DeadRow"
     },
     {
-        "name": "Enigma NEW",
+        "name": "Enigma (3) NEW",
         "players": 3,
         "dirName": "Enigma"
     },
@@ -75,16 +65,6 @@
         "dirName": "Rivers"
     },
     {
-        "name": "Bridges! (3)",
-        "players": 3,
-        "dirName": "Bridges"
-    },
-    {
-        "name": "King of the hill (3)",
-        "players": 3,
-        "dirName": "KingHill"
-    },
-    {
         "name": "Pressure(4)",
         "players": 4,
         "dirName": "Pressure"
@@ -93,10 +73,5 @@
         "name": "Central River(4)",
         "players": 4,
         "dirName": "CentralRiver"
-    },
-    {
-        "name": "Untitled map(4)",
-        "players": 4,
-        "dirName": "Freedom"
     }
 ]

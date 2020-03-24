@@ -4,7 +4,7 @@
 	"neutralBuildings": [],
 	"players": [{
 		"units": [{
-			"posX": 6,
+			"posX": 3,
 			"posY": 5,
 			"life": 100,
 			"tag": "archer1",
@@ -17,8 +17,8 @@
 			"lookingRight": false
 		},
 		{
-			"posX": 8,
-			"posY": 4,
+			"posX": 6,
+			"posY": 5,
 			"life": 100,
 			"tag": "archer2",
 			"type": {
@@ -26,12 +26,25 @@
 				"primary": 2,
 				"secondaries": []
 			},
-			"active": true,
+			"active": false,
 			"lookingRight": true
 		},
 		{
-			"posX": 6,
-			"posY": 2,
+			"posX": 7,
+			"posY": 6,
+			"life": 100,
+			"tag": "archer3",
+			"type": {
+				"seniority": 0,
+				"primary": 2,
+				"secondaries": []
+			},
+			"active": false,
+			"lookingRight": true
+		},
+		{
+			"posX": 5,
+			"posY": 4,
 			"life": 100,
 			"tag": "warrior1",
 			"type": {
@@ -39,12 +52,12 @@
 				"primary": 0,
 				"secondaries": []
 			},
-			"active": true,
+			"active": false,
 			"lookingRight": false
 		},
 		{
-			"posX": 7,
-			"posY": 3,
+			"posX": 4,
+			"posY": 4,
 			"life": 100,
 			"tag": "warrior2",
 			"type": {
@@ -52,38 +65,12 @@
 				"primary": 0,
 				"secondaries": []
 			},
-			"active": true,
-			"lookingRight": true
-		},
-		{
-			"posX": 2,
-			"posY": 5,
-			"life": 100,
-			"tag": "warrior3",
-			"type": {
-				"seniority": 0,
-				"primary": 0,
-				"secondaries": []
-			},
-			"active": true,
-			"lookingRight": false
-		},
-		{
-			"posX": 10,
-			"posY": 6,
-			"life": 100,
-			"tag": "warrior4",
-			"type": {
-				"seniority": 0,
-				"primary": 0,
-				"secondaries": []
-			},
-			"active": true,
+			"active": false,
 			"lookingRight": true
 		}],
 		"buildings": [{
 			"tag": "daBuilding",
-			"posX": 6,
+			"posX": 5,
 			"posY": 6,
 			"life": 100,
 			"materials": 35,
@@ -91,9 +78,9 @@
 		}]
 	}, {
 		"units": [{
-			"posX": 6,
+			"posX": 3,
 			"posY": 1,
-			"life": 40,
+			"life": 50,
 			"tag": "enemy1",
 			"type": {
 				"seniority": 0,
@@ -104,8 +91,8 @@
 			"lookingRight": true
 		},
 		{
-			"posX": 7,
-			"posY": 1,
+			"posX": 5,
+			"posY": 3,
 			"life": 100,
 			"tag": "enemy2",
 			"type": {

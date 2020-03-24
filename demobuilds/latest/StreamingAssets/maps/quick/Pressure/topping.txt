@@ -1,9 +1,9 @@
-...HAFF..
-....HFF..
+...EAFF..
+....EFF..
 FFF..FF..
-FFFF.F..H
-AH..A..HA
-H..F.FFFF
+FFFF.F..E
+AE..A..EA
+E..F.FFFF
 ..FF..FFF
-..FFH....
-..FFAH...
+..FFE....
+..FFAE...

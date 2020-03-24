@@ -3,7 +3,7 @@
 FFFF.......FFFF
 FFFFFFFFFFFFFFF
 ...............
-..A.H.....H.A..
+..A.E.....E.A..
 .......A.......
 FFFFFFFRFFFFFFF
 FFFFFFFRFFFFFFF
