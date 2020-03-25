@@ -1,13 +1,13 @@
 [
     {
-        "name": "Gold Fever NEW",
+        "name": "Gold fever",
         "players": 2,
         "dirName": "GoldFever"
     },
     {
-        "name": "Shooting Range NEW",
+        "name": "War game NEW",
         "players": 2,
-        "dirName": "ShootingRange"
+        "dirName": "WarGame"
     },
     {
         "name": "Demoland",
@@ -45,12 +45,12 @@
         "dirName": "Coast"
     },
     {
-        "name": "Dead Row NEW",
+        "name": "Dead row",
         "players": 2,
         "dirName": "DeadRow"
     },
     {
-        "name": "Enigma (3) NEW",
+        "name": "Enigma (3)",
         "players": 3,
         "dirName": "Enigma"
     },
