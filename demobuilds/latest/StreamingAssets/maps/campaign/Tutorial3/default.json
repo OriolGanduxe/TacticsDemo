@@ -17,7 +17,7 @@
 			"lookingRight": false
 		},
 		{
-			"posX": 6,
+			"posX": 5,
 			"posY": 5,
 			"life": 100,
 			"tag": "archer2",
@@ -74,7 +74,29 @@
 			"posY": 6,
 			"life": 100,
 			"materials": 35,
-			"active": true
+			"active": false,
+			"passive": true
+		}],
+		"knownUnits": [{
+			"seniority": 0,
+			"primary": 0,
+			"secondaries": [],
+			"disabled": true
+		}, {
+			"seniority": 0,
+			"primary": 1,
+			"secondaries": [],
+			"disabled": true
+		}, {
+			"seniority": 0,
+			"primary": 2,
+			"secondaries": [],
+			"disabled": false
+		}, {
+			"seniority": 0,
+			"primary": 3,
+			"secondaries": [],
+			"disabled": true
 		}]
 	}, {
 		"units": [{
