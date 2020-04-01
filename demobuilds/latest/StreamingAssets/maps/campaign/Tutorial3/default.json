@@ -72,7 +72,7 @@
 			"tag": "daBuilding",
 			"posX": 5,
 			"posY": 6,
-			"life": 100,
+			"life": 40,
 			"materials": 35,
 			"active": false,
 			"passive": true

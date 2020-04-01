@@ -1,6 +1,7 @@
 {
 	"mapPath": "quick/WarGame",
 	"mapName": "War game",
+	"biome": 1,
 	"neutralBuildings": [{
 			"posX": 3,
 			"posY": 7,
