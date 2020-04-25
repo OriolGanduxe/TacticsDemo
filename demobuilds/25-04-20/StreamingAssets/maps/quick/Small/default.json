@@ -1,0 +1,65 @@
+{
+	"mapPath": "quick/Small",
+	"mapName": "Small",
+	"neutralBuildings": [{
+		"posX": 4,
+		"posY": 2,
+		"life": 100,
+		"materials": 35,
+		"active": true,
+		"extraDefense": true,
+		"extraRange": true,
+		"extraLifeRegen": true,
+		"extraMaterialsRegen": true
+	}],
+	"neutralMines": [{
+		"posX": 3,
+		"posY": 0
+	}],
+	"players": [{
+		"units": [],
+		"buildings": [{
+			"posX": 1,
+			"posY": 4,
+			"life": 100,
+			"materials": 35,
+			"active": true
+		}, {
+			"posX": 1,
+			"posY": 1,
+			"life": 100,
+			"materials": 35,
+            "active": true,
+            "extraRange": true,
+            "extraLifeRegen": true
+		}]
+	}, {
+		"units": [{
+			"posX": 8,
+			"posY": 3,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		}],
+		"buildings": [{
+			"posX": 7,
+			"posY": 3,
+			"life": 100,
+			"materials": 35,
+            "active": true,
+            "extraDefense": true,
+            "extraMaterialsRegen": true
+		}, {
+			"posX": 6,
+			"posY": 0,
+			"life": 100,
+			"materials": 35,
+			"active": true
+		}]
+	}]
+}

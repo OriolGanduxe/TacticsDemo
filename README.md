@@ -20,4 +20,6 @@
 
 [Build v0.3](/demobuilds/v0.3/index.md)
 
+[Online Test Tutorials 1-3 25-04-20](/demobuilds/25-04-20/index.md)
+
 [Latest Build UNSTABLE](/demobuilds/latest/index.md)

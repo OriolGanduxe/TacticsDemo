@@ -1,0 +1,58 @@
+{
+	"mapPath": "quick/Coast",
+	"mapName": "Coast",
+	"neutralBuildings": [
+	{
+		"posX": 1,
+		"posY": 5,
+		"life": 100,
+		"materials": 35,
+		"active": true,
+		"extraDefense": true
+	}],
+	"neutralMines": [{
+		"posX": 0,
+		"posY": 1,
+		"life": 100,
+		"materials": 35,
+		"active": true
+	},
+	{
+		"posX": 0,
+		"posY": 6,
+		"life": 100,
+		"materials": 35,
+		"active": true,
+		"extraMaterialsRegen": true
+	}],
+	"players": [{
+		"units": [],
+		"buildings": [{
+			"posX": 7,
+			"posY": 1,
+			"life": 100,
+			"materials": 35,
+			"active": true
+		}]
+	}, {
+		"units": [{
+			"posX": 8,
+			"posY": 9,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		}],
+		"buildings": [{
+			"posX": 7,
+			"posY": 9,
+			"life": 100,
+			"materials": 35,
+            "active": true
+		}]
+	}]
+}
