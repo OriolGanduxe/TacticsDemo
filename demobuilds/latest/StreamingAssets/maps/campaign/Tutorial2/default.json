@@ -4,8 +4,8 @@
 	"neutralBuildings": [],
 	"players": [{
 		"units": [{
-			"posX": 1,
-			"posY": 5,
+			"posX": 2,
+			"posY": 6,
 			"life": 100,
 			"tag": "archer1",
 			"type": {
