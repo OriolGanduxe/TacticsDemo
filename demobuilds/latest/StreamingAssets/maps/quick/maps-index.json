@@ -10,6 +10,12 @@
         "dirName": "WarGame"
     },
     {
+        "name": "Take the position! (AI) NEW",
+        "description": "Team 2 has advantatge. Make Team 2 be AI and play with AI Terrain deck.",
+        "players": 2,
+        "dirName": "TakeThePosition"
+    },
+    {
         "name": "Demoland",
         "players": 2,
         "dirName": "Demoland"

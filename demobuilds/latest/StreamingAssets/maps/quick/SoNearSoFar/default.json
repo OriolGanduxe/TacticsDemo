@@ -2,6 +2,14 @@
 	"mapPath": "quick/SoNearSoFar",
 	"mapName": "So near so far",
 	"neutralBuildings": [],
+	"neutralMines": [{
+			"posX": 2,
+			"posY": 2
+		},
+		{
+			"posX": 7,
+			"posY": 8
+		}],
 	"players": [{
 			"units": [],
 			"buildings": [{

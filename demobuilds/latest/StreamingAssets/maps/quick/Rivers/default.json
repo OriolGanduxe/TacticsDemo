@@ -2,29 +2,23 @@
 	"mapPath": "quick/Rivers",
 	"mapName": "Rivers",
 	"neutralBuildings": [{
-		"posX": 2,
-		"posY": 4,
-		"life": 100,
-		"materials": 35,
-		"active": true
-	},{
-		"posX": 7,
-		"posY": 4,
-		"life": 100,
-		"materials": 35,
-		"active": true
-	},{
 		"posX": 5,
 		"posY": 3,
 		"life": 100,
 		"materials": 35,
-		"active": true
+		"active": true,
+		"extraDefense": true,
+		"extraRange": true
+	}],
+	"neutralMines": [{
+		"posX": 2,
+		"posY": 4
+	},{
+		"posX": 7,
+		"posY": 4
 	},{
 		"posX": 4,
-		"posY": 1,
-		"life": 100,
-		"materials": 35,
-		"active": true
+		"posY": 1
 	}],
 	"players": [{
 		"units": [],
@@ -38,8 +32,8 @@
 	}, {
 		"units": [],
 		"buildings": [{
-			"posX": 6,
-			"posY": 5,
+			"posX": 5,
+			"posY": 0,
 			"life": 100,
 			"materials": 35,
 			"active": true
@@ -47,8 +41,8 @@
 	}, {
 		"units": [],
 		"buildings": [{
-			"posX": 5,
-			"posY": 0,
+			"posX": 6,
+			"posY": 5,
 			"life": 100,
 			"materials": 35,
 			"active": true

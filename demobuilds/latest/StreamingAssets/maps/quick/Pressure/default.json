@@ -1,6 +1,15 @@
 {
 	"mapPath": "quick/Pressure",
 	"mapName": "Pressure",
+	"neutralMines": [
+		{
+			"posX": 3,
+			"posY": 5
+		},
+		{
+			"posX": 5,
+			"posY": 3
+		}],
 	"neutralBuildings": [{
 		"posX": 4,
 		"posY": 4,

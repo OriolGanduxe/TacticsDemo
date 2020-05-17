@@ -15,6 +15,9 @@
 	"neutralMines": [{
 		"posX": 3,
 		"posY": 0
+	},{
+		"posX": 6,
+		"posY": 4
 	}],
 	"players": [{
 		"units": [],

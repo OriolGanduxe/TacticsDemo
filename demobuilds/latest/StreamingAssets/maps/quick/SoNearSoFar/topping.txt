@@ -1,10 +1,10 @@
 FFFF...FFFF
-FFF..E..FFF
+FFF..E.MFFF
 FF.......FF
 F.........F
 ....A.A....
 ....A.A....
 ...........
-FF..BBB...F
+FFM.BBB...F
 FFF.....FFF
 FFFF...FFFF
