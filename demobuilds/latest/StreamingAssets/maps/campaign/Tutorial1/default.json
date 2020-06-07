@@ -1,7 +1,7 @@
 {
 	"mapPath": "campaign/Tutorial1",
 	"mapName": "Tutorial1",
-	"featureFlags":{"experience":false,"tacticPoints":false,"battlePoints":false,"randomness":false},
+	"featureFlags":{"experience":false,"tacticPoints":false,"battlePoints":false,"randomness":false, "buildingUpgrades": false},
 	"biome": 1,
 	"neutralBuildings": [],
 	"players": [{
