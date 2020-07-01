@@ -1,5 +1,10 @@
 [
     {
+        "name": "Assault! (NEW)",
+        "players": 2,
+        "dirName": "Assault"
+    },
+    {
         "name": "Gold fever",
         "players": 2,
         "dirName": "GoldFever"
