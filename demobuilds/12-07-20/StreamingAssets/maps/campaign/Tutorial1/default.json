@@ -1,0 +1,27 @@
+{
+	"mapPath": "campaign/Tutorial1",
+	"mapName": "Tutorial1",
+	"featureFlags":{"experience":false,"tacticPoints":false,"battlePoints":false,"randomness":false, "buildingUpgrades": false},
+	"biome": 0,
+	"neutralBuildings": [],
+	"players": [{
+		"units": [{
+			"posX": 0,
+			"posY": 2,
+			"life": 100,
+			"tag": "ourUnitTag",
+			"type": {
+				"seniority": 0,
+				"primary": 3,
+				"secondaries": []
+			},
+			"active": true,
+			"passive": true,
+			"lookingRight": true
+		}],
+		"buildings": []
+	}, {
+		"units": [],
+		"buildings": []
+	}]
+}
