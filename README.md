@@ -28,4 +28,4 @@
 
 [Test Win 12-07-20](https://drive.google.com/file/d/1Ss4FV2f_kpPvBbfOQH84J9B3RnJX1VZE/view?usp=sharing)
 
-[Latest Build UNSTABLE](/demobuilds/latest/index.md)
+[Latest Build UNSTABLE](https://oriolganduxe.github.io/TacticsDemo/demobuilds/latest)
