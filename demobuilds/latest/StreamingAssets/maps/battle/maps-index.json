@@ -1,6 +1,16 @@
 [
     {
-        "name": "Assault! (NEW)",
+        "name": "Keep it simple",
+        "players": 2,
+        "dirName": "KeepItSimple"
+    },
+    {
+        "name": "Maybe it's not that simple",
+        "players": 2,
+        "dirName": "MaybeItsNotThatSimple"
+    },
+    {
+        "name": "Assault!",
         "players": 2,
         "dirName": "Assault"
     },

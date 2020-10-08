@@ -1,0 +1,52 @@
+{
+	"mapPath": "battle/KeepItSimple",
+	"mapName": "KeepItSimple",
+	"neutralBuildings": [{
+		"posX": 4,
+		"posY": 2,
+		"life": 100,
+		"materials": 20,
+		"active": true
+	}],
+	"players": [{
+		"units": [{
+			"posX": 8,
+			"posY": 2,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		}],
+		"buildings": [{
+			"posX": 9,
+			"posY": 2,
+			"life": 100,
+			"materials": 20,
+			"active": true
+		}]
+	},{
+		"units": [{
+			"posX": 1,
+			"posY": 3,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 2,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": true
+		}],
+		"buildings": [{
+			"posX": 0,
+			"posY": 3,
+			"life": 100,
+			"materials": 20,
+			"active": true
+		}]
+	}]
+}
