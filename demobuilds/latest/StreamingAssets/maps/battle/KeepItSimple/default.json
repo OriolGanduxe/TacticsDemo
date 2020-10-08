@@ -1,6 +1,10 @@
 {
 	"mapPath": "battle/KeepItSimple",
 	"mapName": "KeepItSimple",
+	"neutralMines": [{
+		"posX": 2,
+		"posY": 1
+	}],
 	"neutralBuildings": [{
 		"posX": 4,
 		"posY": 2,
