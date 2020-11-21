@@ -126,5 +126,5 @@
 			"lookingRight": true
 		}],
 		"buildings": []
-	}],"featureFlags":{"experience":false,"tacticPoints":false,"battlePoints":false,"randomness":false, "buildingUpgrades": false}
+	}],"featureFlags":{"experience":false,"tacticPoints":false,"battlePoints":false,"randomness":false, "buildingUpgrades": false, "victoryCondition": 3}
 }

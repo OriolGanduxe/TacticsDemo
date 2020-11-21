@@ -2,17 +2,13 @@
 	"mapPath": "battle/MaybeItsNotThatSimple",
 	"mapName": "MaybeItsNotThatSimple",
 	"neutralMines": [{
-		"posX": 0,
+		"posX": 5,
 		"posY": 5
-	},
-	{
-		"posX": 7,
-		"posY": 4
 	}],
 	"players": [{
 		"units": [{
-			"posX": 2,
-			"posY": 2,
+			"posX": 3,
+			"posY": 1,
 			"life": 100,
 			"type": {
 				"seniority": 0,
@@ -31,8 +27,8 @@
 		}]
 	}, {
 		"units": [{
-			"posX": 11,
-			"posY": 3,
+			"posX": 9,
+			"posY": 5,
 			"life": 100,
 			"type": {
 				"seniority": 0,

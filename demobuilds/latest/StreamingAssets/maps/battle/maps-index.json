@@ -1,98 +1,103 @@
 [
     {
-        "name": "Keep it simple",
+        "name": "Keep it simple (NEW)",
         "players": 2,
-        "dirName": "KeepItSimple"
+        "dirPath": "battle/KeepItSimple"
     },
     {
-        "name": "Maybe it's not that simple",
+        "name": "Maybe it's not that simple (NEW)",
         "players": 2,
-        "dirName": "MaybeItsNotThatSimple"
+        "dirPath": "battle/MaybeItsNotThatSimple"
+    },
+    {
+        "name": "Team fortress (NEW)",
+        "players": 2,
+        "dirPath": "battle/TeamFortress"
     },
     {
         "name": "Assault!",
         "players": 2,
-        "dirName": "Assault"
+        "dirPath": "battle/Assault"
     },
     {
         "name": "Gold fever",
         "players": 2,
-        "dirName": "GoldFever"
+        "dirPath": "battle/GoldFever"
     },
     {
-        "name": "War game NEW",
+        "name": "War game",
         "players": 2,
-        "dirName": "WarGame"
+        "dirPath": "battle/WarGame"
     },
     {
-        "name": "Take the position! (AI) NEW",
+        "name": "Take the position! (AI)",
         "description": "Team 2 has advantatge. Make Team 2 be AI and play with AI Terrain deck.",
         "players": 2,
-        "dirName": "TakeThePosition"
+        "dirPath": "battle/TakeThePosition"
     },
     {
         "name": "Demoland",
         "players": 2,
-        "dirName": "Demoland"
+        "dirPath": "battle/Demoland"
     },
     {
         "name": "Surrounded",
         "players": 2,
-        "dirName": "Surrounded"
+        "dirPath": "battle/Surrounded"
     },
     {
         "name": "Markitus",
         "players": 2,
-        "dirName": "Markitus"
+        "dirPath": "battle/Markitus"
     },
     {
         "name": "So near so far",
         "players": 2,
-        "dirName": "SoNearSoFar"
+        "dirPath": "battle/SoNearSoFar"
     },
     {
         "name": "Runaway",
         "players": 2,
-        "dirName": "Runaway"
+        "dirPath": "battle/Runaway"
     },
     {
         "name": "Small",
         "players": 2,
-        "dirName": "Small"
+        "dirPath": "battle/Small"
     },
     {
         "name": "Coast",
         "players": 2,
-        "dirName": "Coast"
+        "dirPath": "battle/Coast"
     },
     {
         "name": "Dead row",
         "players": 2,
-        "dirName": "DeadRow"
+        "dirPath": "battle/DeadRow"
     },
     {
         "name": "Enigma (3)",
         "players": 3,
-        "dirName": "Enigma"
+        "dirPath": "battle/Enigma"
     },
     {
         "name": "Quiet Lagoon (3)",
         "players": 3,
-        "dirName": "QuietLagoon"
+        "dirPath": "battle/QuietLagoon"
     },
     {
         "name": "Rivers! (3)",
         "players": 3,
-        "dirName": "Rivers"
+        "dirPath": "battle/Rivers"
     },
     {
         "name": "Pressure(4)",
         "players": 4,
-        "dirName": "Pressure"
+        "dirPath": "battle/Pressure"
     },
     {
         "name": "Central River(4)",
         "players": 4,
-        "dirName": "CentralRiver"
+        "dirPath": "battle/CentralRiver"
     }
 ]

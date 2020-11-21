@@ -1,0 +1,50 @@
+{
+	"mapPath": "challenge/MinesRush",
+	"mapName": "MinesRush",
+	"neutralBuildings": [],
+	"neutralMines": [{
+		"posX": 3,
+		"posY": 0
+	},{
+		"posX": 6,
+		"posY": 4
+	},{
+		"posX": 7,
+		"posY": 1
+	},{
+		"posX": 4,
+		"posY": 2
+	},{
+		"posX": 1,
+		"posY": 3
+	}],
+	"players": [{
+		"units": [{
+			"posX": 2,
+			"posY": 2,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 3,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": true
+		}],
+		"buildings": []
+	}, {
+		"units": [{
+			"posX": 8,
+			"posY": 3,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 3,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		}],
+		"buildings": []
+	}]
+}
