@@ -28,6 +28,7 @@
 			"active": true
 		}]
 	}, {
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [{
 			"posX": 5,
 			"posY": 1,

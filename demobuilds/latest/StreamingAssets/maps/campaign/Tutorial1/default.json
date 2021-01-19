@@ -5,6 +5,7 @@
 	"biome": 0,
 	"neutralBuildings": [],
 	"players": [{
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [{
 			"posX": 0,
 			"posY": 2,
@@ -21,6 +22,7 @@
 		}],
 		"buildings": []
 	}, {
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [],
 		"buildings": []
 	}]

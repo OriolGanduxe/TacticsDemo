@@ -10,7 +10,7 @@
 			"active": true
 		},
 		{
-			"posX": 1,
+			"posX": 2,
 			"posY": 7,
 			"life": 100,
 			"materials": 35,
@@ -19,14 +19,15 @@
 	],
 	"neutralBuildings": [
 		{
-			"posX": 1,
-			"posY": 1,
+			"posX": 3,
+			"posY": 2,
 			"life": 100,
 			"materials": 35,
 			"active": true,
 			"extraLifeRegen": true
 		}
 	], "players": [{
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [],
 		"buildings": [{
 			"tag": "teamBuilding",
@@ -43,9 +44,10 @@
 			"posX": 13,
 			"posY": 7,
 			"life": 100,
-			"materials": 35,
+			"materials": 15,
 			"active": true
 		}],
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [{
 			"tag": "enemyArcher",
 			"posX": 9,

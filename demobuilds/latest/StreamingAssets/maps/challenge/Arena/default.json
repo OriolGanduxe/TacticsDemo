@@ -4,6 +4,7 @@
 	"neutralBuildings": [],
 	"neutralMines": [],
 	"players": [{
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [{
 			"posX": 2,
 			"posY": 2,
@@ -18,6 +19,7 @@
 		}],
 		"buildings": []
 	}, {
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [{
 			"posX": 8,
 			"posY": 3,

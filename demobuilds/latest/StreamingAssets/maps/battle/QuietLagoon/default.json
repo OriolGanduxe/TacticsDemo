@@ -16,6 +16,7 @@
 		"lookingRight": false
 	}],
 	"players": [{
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [{
 			"posX": 7,
 			"posY": 0,

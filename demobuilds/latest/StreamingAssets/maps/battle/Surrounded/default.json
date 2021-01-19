@@ -3,7 +3,8 @@
 	"mapName": "Surrounded",
 	"neutralBuildings": [],
 	"players": [{
-        "units": [
+        "allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
+		"units": [
             {
                 "posX": 9,
                 "posY": 6,
@@ -62,6 +63,7 @@
         }],
         "mines": [{"posX": 10, "posY": 8}]
 	}, {
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [],
         "buildings": [
             {

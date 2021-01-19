@@ -49,6 +49,7 @@
 	}],
 	"players": [{
 		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [],
 		"buildings": [{
 			"posX": 10,
@@ -58,6 +59,7 @@
 			"active": true
 		}]
 	}, {
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [],
 		"buildings": [{
@@ -69,6 +71,7 @@
 		}]
 	}, {
 		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [],
 		"buildings": [{
 			"posX": 3,
@@ -78,6 +81,7 @@
             "active": true
 		}]
 	}, {
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [],
 		"buildings": [{

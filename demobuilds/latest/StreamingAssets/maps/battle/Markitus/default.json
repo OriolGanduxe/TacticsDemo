@@ -32,7 +32,8 @@
         "posY": 7
     }],
 	"players": [{
-        "units": [],
+        "allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
+		"units": [],
 		"buildings": [{
 			"posX": 0,
 			"posY": 4,
@@ -41,6 +42,7 @@
 			"active": true
 		}]
 	}, {
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [],
         "buildings": [
             {

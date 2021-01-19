@@ -3,6 +3,7 @@
 	"mapName": "Tutorial4",
 	"neutralMines": [],
 	"players": [{
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [{
 			"posX": 4,
 			"posY": 1,
@@ -81,6 +82,7 @@
 			"materials": 0,
 			"active": true
 		}],
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [{
 			"posX": 9,
 			"posY": 8,
