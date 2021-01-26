@@ -1,6 +1,6 @@
 {
 	"mapPath": "challenge/MinesRush",
-	"mapName": "MinesRush",
+	"mapName": "Mines rush",
 	"neutralBuildings": [],
 	"neutralMines": [{
 		"posX": 3,
@@ -21,12 +21,23 @@
 	"players": [{
 		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [{
-			"posX": 2,
-			"posY": 2,
-			"life": 100,
+			"posX": 0,
+			"posY": 0,
+			"life": 80,
 			"type": {
 				"seniority": 0,
 				"primary": 3,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": true
+		},{
+			"posX": 0,
+			"posY": 4,
+			"life": 80,
+			"type": {
+				"seniority": 0,
+				"primary": 0,
 				"secondaries": []
 			},
 			"active": true,
@@ -37,7 +48,29 @@
 		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
 		"units": [{
 			"posX": 8,
-			"posY": 3,
+			"posY": 2,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},{
+			"posX": 8,
+			"posY": 0,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 3,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},{
+			"posX": 8,
+			"posY": 4,
 			"life": 100,
 			"type": {
 				"seniority": 0,

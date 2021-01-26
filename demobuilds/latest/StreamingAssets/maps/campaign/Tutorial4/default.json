@@ -107,5 +107,5 @@
 			"active": true,
 			"lookingRight": false
 		}]
-	}],"featureFlags":{"experience":false,"tacticPoints":false,"battlePoints":false,"randomness":false, "buildingUpgrades": false, "victoryCondition": 0}
+	}],"featureFlags":{"experience":false,"tacticPoints":false,"battlePoints":false,"randomness":false, "buildingUpgrades": false}
 }
