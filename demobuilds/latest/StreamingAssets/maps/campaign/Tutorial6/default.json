@@ -5,21 +5,7 @@
 	"neutralBuildings": [], 
 	"players": [{
 		"units": [{
-			"tag": "lyr",
-			"posX": 0,
-			"posY": 3,
-			"life": 100,
-			"type": {
-				"seniority": 0,
-				"primary": 2,
-				"secondaries": []
-			},
-			"special": true,
-			"active": true,
-			"lookingRight": true
-		},
-		{
-			"tag": "captain",
+			"tag": "camp_char_captain",
 			"posX": 8,
 			"posY": 6,
 			"life": 51,
