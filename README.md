@@ -2,6 +2,8 @@
 
 [Latest Build UNSTABLE](https://oriolganduxe.github.io/TacticsDemo/demobuilds/latest)
 
+[Jam Spring 2021](https://oriolganduxe.github.io/TacticsDemo/demobuilds/JamSpring2021)
+
 [Build v0.1](/demobuilds/v0.1/index.md)
 
 [Build v0.1.1](/demobuilds/v0.1.1/index.md)
