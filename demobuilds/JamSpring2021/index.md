@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | JamSpring</title>
+    <title>Unity WebGL Player | JamSpring2021</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
@@ -19,7 +19,7 @@
       <div id="unity-footer">
         <div id="unity-webgl-logo"></div>
         <div id="unity-fullscreen-button"></div>
-        <div id="unity-build-title">JamSpring</div>
+        <div id="unity-build-title">JamSpring2021</div>
       </div>
     </div>
     <script>
@@ -30,9 +30,9 @@
         frameworkUrl: buildUrl + "/JamSpring2021Web.framework.js.unityweb",
         codeUrl: buildUrl + "/JamSpring2021Web.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
-        companyName: "DefaultCompany",
-        productName: "JamSpring",
-        productVersion: "0.1",
+        companyName: "Autohit Games",
+        productName: "JamSpring2021",
+        productVersion: "1.0",
       };
 
       var container = document.querySelector("#unity-container");
@@ -46,7 +46,7 @@
         config.devicePixelRatio = 1;
       } else {
         canvas.style.width = "960px";
-        canvas.style.height = "600px";
+        canvas.style.height = "540px";
       }
       loadingBar.style.display = "block";
 
