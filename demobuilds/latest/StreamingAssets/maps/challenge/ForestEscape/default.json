@@ -139,5 +139,11 @@
 			"active": true,
 			"lookingRight": false
 		}]
-	}]
+	}],
+	"challengeObjectives": [
+		{
+			"customIcon": 1,
+			"stringKey": "obj_cha_102"
+		}
+	]
 }

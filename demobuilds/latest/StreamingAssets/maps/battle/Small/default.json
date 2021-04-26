@@ -66,5 +66,11 @@
 			"materials": 35,
 			"active": true
 		}]
-	}]
+	}],
+	"challengeObjectives": [
+		{
+			"customIcon": 0,
+			"stringKey": "obj_cha_000"
+		}
+	]
 }

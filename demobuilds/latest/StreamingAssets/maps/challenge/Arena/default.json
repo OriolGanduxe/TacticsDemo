@@ -105,5 +105,11 @@
 			"lookingRight": false
 		}],
 		"buildings": []
-	}]
+	}],
+	"challengeObjectives": [
+		{
+			"customIcon": 1,
+			"stringKey": "obj_cha_100"
+		}
+	]
 }

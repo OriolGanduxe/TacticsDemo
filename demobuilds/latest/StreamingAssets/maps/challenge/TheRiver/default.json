@@ -87,5 +87,11 @@
 		}],
 		"mines": [],
 		"buildings": []
-	}]
+	}],
+	"challengeObjectives": [
+		{
+			"customIcon": 2,
+			"stringKey": "obj_cha_generic_defeat_one_turn"
+		}
+	]
 }

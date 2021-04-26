@@ -47,5 +47,11 @@
 			"materials": 20,
 			"active": false
 		}]
-	}]
+	}],
+	"challengeObjectives": [
+		{
+			"customIcon": 3,
+			"stringKey": "obj_cha_generic_defeat_regular"
+		}
+	]
 }

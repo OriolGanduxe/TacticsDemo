@@ -45,5 +45,11 @@
 			"posX": 6,
 			"posY": 7
 		}]
-	}]
+	}],
+	"challengeObjectives": [
+		{
+			"customIcon": 3,
+			"stringKey": "obj_cha_generic_defeat_regular"
+		}
+	]
 }
