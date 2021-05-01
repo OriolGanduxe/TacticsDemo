@@ -1,9 +1,9 @@
 .........F..FFFF.
-.....F..A...FFFRR
-F...FFRRRRRRRRRRF
-....E.RE.....FFFF
+FF...F..A...FFFRR
+FF..FFRRRRRRRRRRF
+F...E.RE.....FFFF
 .RRRRRRF...FFFFFF
 RR.....F....FFFFF
-......A......FFFF
-F........F.......
+FF....A......FFFF
+FF.......F.......
 F...........F....
