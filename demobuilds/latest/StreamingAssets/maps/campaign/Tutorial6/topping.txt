@@ -1,5 +1,5 @@
 .........F..FFFF.
-FF...F..A...FFFRR
+F....F..A...FFFRR
 FF..FFRRRRRRRRRRF
 F...E.RE.....FFFF
 .RRRRRRF...FFFFFF

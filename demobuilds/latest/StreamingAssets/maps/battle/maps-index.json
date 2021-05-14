@@ -1,16 +1,21 @@
 [
     {
-        "name": "Keep it simple (NEW)",
+        "name": "War games (NEW)",
+        "players": 2,
+        "dirPath": "battle/WarGame"
+    },
+    {
+        "name": "Keep it simple",
         "players": 2,
         "dirPath": "battle/KeepItSimple"
     },
     {
-        "name": "Maybe it's not that simple (NEW)",
+        "name": "Maybe it's not that simple",
         "players": 2,
         "dirPath": "battle/MaybeItsNotThatSimple"
     },
     {
-        "name": "Team fortress (NEW)",
+        "name": "Team fortress",
         "players": 2,
         "dirPath": "battle/TeamFortress"
     },
