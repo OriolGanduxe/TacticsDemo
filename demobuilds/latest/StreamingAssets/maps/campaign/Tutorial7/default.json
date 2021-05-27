@@ -5,18 +5,83 @@
 	"neutralBuildings": [], 
 	"players": [{
 		"units": [{
-			"tag": "camp_char_captain",
-			"posX": 8,
-			"posY": 6,
-			"life": 51,
+			"posX": 2,
+			"posY": 2,
+			"life": 100,
 			"type": {
-				"seniority": 1,
-				"primary": 0,
+				"seniority": 0,
+				"primary": 3,
 				"secondaries": []
 			},
+			"active": true,
+			"lookingRight": true
+		}, {
+			"posX": 1,
+			"posY": 1,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": [0]
+			},
 			"special": true,
-			"active": false,
-			"lookingRight": false
+			"active": true,
+			"lookingRight": true
+		}, {
+			"posX": 3,
+			"posY": 1,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": [0]
+			},
+			"active": true,
+			"lookingRight": true
+		}, {
+			"posX": 7,
+			"posY": 0,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 3,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": true
+		}, {
+			"posX": 0,
+			"posY": 4,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 1,
+				"secondaries": [2]
+			},
+			"active": true,
+			"lookingRight": true
+		}, {
+			"posX": 4,
+			"posY": 2,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 2,
+				"secondaries": [1]
+			},
+			"active": true,
+			"lookingRight": true
+		}, {
+			"posX": 5,
+			"posY": 2,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 2,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": true
 		}],
 		"buildings": [{
 			"tag": "allyBuilding",
@@ -25,94 +90,122 @@
 			"life": 100,
 			"materials": -10,
 			"active": true
-		}],
-		"knownUnits": [{
-			"seniority": 0,
-			"primary": 0,
-			"secondaries": [],
-			"disabled": true
-		}, {
-			"seniority": 0,
-			"primary": 1,
-			"secondaries": [],
-			"disabled": true
-		}, {
-			"seniority": 0,
-			"primary": 2,
-			"secondaries": [],
-			"disabled": true
-		}, {
-			"seniority": 0,
-			"primary": 3,
-			"secondaries": [],
-			"disabled": true
 		}]
 	}, {
 		"mines": [],
-		"buildings": [{
-			"tag": "enemyBuilding",
-			"posX": 8,
-			"posY": 7,
-			"life": 15,
-			"materials": -10,
-			"active": true,
-			"passive": true
-		}],
-		"knownUnits": [{
-			"seniority": 0,
-			"primary": 0,
-			"secondaries": [],
-			"disabled": true
-		}, {
-			"seniority": 0,
-			"primary": 1,
-			"secondaries": [],
-			"disabled": true
-		}, {
-			"seniority": 0,
-			"primary": 2,
-			"secondaries": [],
-			"disabled": false
-		}, {
-			"seniority": 0,
-			"primary": 3,
-			"secondaries": [],
-			"disabled": true
-		}],
+		"buildings": [],
 		"units": [{
 			"tag": "enemy1",
-			"posX": 4,
-			"posY": 4,
-			"life": 30,
+			"posX": 9,
+			"posY": 6,
+			"life": 60,
 			"type": {
 				"seniority": 0,
-				"primary": 1,
+				"primary": 3,
 				"secondaries": []
 			},
 			"active": true,
-			"lookingRight": true
+			"lookingRight": false
 		},
 		{
 			"tag": "enemy2",
-			"posX": 7,
-			"posY": 6,
-			"life": 70,
+			"posX": 4,
+			"posY": 5,
+			"life": 40,
+			"type": {
+				"seniority": 0,
+				"primary": 3,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},
+		{
+			"tag": "enemy3",
+			"posX": 5,
+			"posY": 5,
+			"life": 30,
+			"type": {
+				"seniority": 0,
+				"primary": 3,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},
+		{
+			"tag": "enemy4",
+			"posX": 24,
+			"posY": 0,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 2,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},
+		{
+			"tag": "enemy4",
+			"posX": 23,
+			"posY": 1,
+			"life": 100,
 			"type": {
 				"seniority": 0,
 				"primary": 0,
 				"secondaries": []
 			},
 			"active": true,
-			"lookingRight": true
+			"lookingRight": false
 		},
 		{
-			"tag": "enemy3",
-			"posX": 9,
-			"posY": 6,
-			"life": 61,
+			"tag": "enemy6",
+			"posX": 23,
+			"posY": 5,
+			"life": 100,
 			"type": {
 				"seniority": 0,
-				"primary": 3,
+				"primary": 2,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},
+		{
+			"tag": "enemy7",
+			"posX": 22,
+			"posY": 6,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},
+		{
+			"tag": "enemy8",
+			"posX": 22,
+			"posY": 7,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},
+		{
+			"tag": "enemy9",
+			"posX": 11,
+			"posY": 2,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 0,
 				"secondaries": []
 			},
 			"active": true,
