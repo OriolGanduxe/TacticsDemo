@@ -1,0 +1,215 @@
+{
+	"mapPath": "campaign/Tutorial7",
+	"mapName": "Tutorial 7",
+	"neutralMines": [],
+	"neutralBuildings": [], 
+	"players": [{
+		"units": [{
+			"posX": 2,
+			"posY": 2,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 3,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": true
+		}, {
+			"posX": 1,
+			"posY": 1,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": [0]
+			},
+			"special": true,
+			"active": true,
+			"lookingRight": true
+		}, {
+			"posX": 3,
+			"posY": 1,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": [0]
+			},
+			"active": true,
+			"lookingRight": true
+		}, {
+			"posX": 7,
+			"posY": 0,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 3,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": true
+		}, {
+			"posX": 0,
+			"posY": 4,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 1,
+				"secondaries": [2]
+			},
+			"active": true,
+			"lookingRight": true
+		}, {
+			"posX": 4,
+			"posY": 2,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 2,
+				"secondaries": [1]
+			},
+			"active": true,
+			"lookingRight": true
+		}, {
+			"posX": 5,
+			"posY": 2,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 2,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": true
+		}],
+		"buildings": [{
+			"tag": "allyBuilding",
+			"posX": 6,
+			"posY": 2,
+			"life": 100,
+			"materials": -10,
+			"active": true
+		}]
+	}, {
+		"mines": [],
+		"buildings": [],
+		"units": [{
+			"tag": "enemy1",
+			"posX": 9,
+			"posY": 6,
+			"life": 60,
+			"type": {
+				"seniority": 0,
+				"primary": 3,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},
+		{
+			"tag": "enemy2",
+			"posX": 4,
+			"posY": 5,
+			"life": 40,
+			"type": {
+				"seniority": 0,
+				"primary": 3,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},
+		{
+			"tag": "enemy3",
+			"posX": 5,
+			"posY": 5,
+			"life": 30,
+			"type": {
+				"seniority": 0,
+				"primary": 3,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},
+		{
+			"tag": "enemy4",
+			"posX": 24,
+			"posY": 0,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 2,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},
+		{
+			"tag": "enemy4",
+			"posX": 23,
+			"posY": 1,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},
+		{
+			"tag": "enemy6",
+			"posX": 23,
+			"posY": 5,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 2,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},
+		{
+			"tag": "enemy7",
+			"posX": 22,
+			"posY": 6,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},
+		{
+			"tag": "enemy8",
+			"posX": 22,
+			"posY": 7,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		},
+		{
+			"tag": "enemy9",
+			"posX": 11,
+			"posY": 2,
+			"life": 100,
+			"type": {
+				"seniority": 0,
+				"primary": 0,
+				"secondaries": []
+			},
+			"active": true,
+			"lookingRight": false
+		}]
+	}],"featureFlags":{"experience":true,"tacticPoints":false,"battlePoints":false,"randomness":false, "buildingUpgrades": false}
+}

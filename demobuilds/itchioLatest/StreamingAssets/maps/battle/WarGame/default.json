@@ -1,0 +1,38 @@
+{
+	"mapPath": "battle/WarGame",
+	"mapName": "War game",
+	"biome": 0,
+	"neutralBuildings": [{
+			"posX": 11,
+			"posY": 8,
+			"life": 100,
+			"materials": 35,
+			"active": true
+		}],
+	"neutralMines": [{
+		"posX": 1,
+		"posY": 1
+	},{
+		"posX": 6,
+		"posY": 5
+	}],
+	"players": [{
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
+		"buildings": [{
+			"posX": 10,
+			"posY": 1,
+			"life": 100,
+			"materials": 35,
+			"active": true
+		}]
+	}, {
+		"allowedBuildingUpgrades":{"population":true,"materials":true,"defense":true,"range":true},
+		"buildings": [{
+			"posX": 3,
+			"posY": 7,
+			"life": 100,
+			"materials": 35,
+			"active": true
+		}]
+	}]
+}
